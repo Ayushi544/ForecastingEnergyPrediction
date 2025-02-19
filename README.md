@@ -21,22 +21,6 @@ This project predicts **energy consumption trends** using **time series forecast
 ✅ **Web-Based Interface** – Uses **Streamlit** for an interactive experience.  
 ✅ **Power BI Dashboard** – Visualizes trends and insights in an intuitive format.  
 
-## **Installation & Usage**  
-1️⃣ **Clone the repository:**  
-```bash
-git clone https://github.com/yourusername/Energy-Forecasting.git
-cd Energy-Forecasting
-```
-2️⃣ **Install dependencies:**  
-```bash
-pip install -r requirements.txt
-```
-3️⃣ **Run the Streamlit app:**  
-```bash
-streamlit run Streamlit_Webpage.py
-```
-4️⃣ **Open the Power BI dashboard** to explore visual trends.  
-
 ## **Why This Project?**  
 Unlike IoT-based commercial solutions, this model provides **transparency** and can be **customized** as per specific energy requirements. It leverages **statistical models** and **synthetic data augmentation** to improve forecasting accuracy.  
 
