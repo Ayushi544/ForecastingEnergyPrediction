@@ -1,4 +1,4 @@
-# Energy Consumption Forecasting System*
+# Energy Consumption Forecasting System
 ## **Overview**  
 This project predicts **energy consumption trends** using **time series forecasting models (ARIMA, SARIMA, and TBATS)**. It provides insights into future energy demands, helping optimize energy usage. The solution includes **data preprocessing, machine learning models, a Streamlit web app, and a Power BI dashboard** for interactive visualizations.  
 ## **Project Structure**  
@@ -45,8 +45,9 @@ Unlike IoT-based commercial solutions, this model provides **transparency** and 
 🚀 Optimize models with **hyperparameter tuning & feature selection**.  
 🚀 Extend dashboard functionality to include **real-time data streaming**.  
 
-## **Contributors**  
-👤 **Ayushi Dadhich** – Data Preprocessing, EDA, Report   
+My contribution for this project was the core idea and some critical contributions before ML models like Data Preprocessing and Feature Engineering. In our project TBATS outperformed all other as it has the lowest RMSE compared to other ML models. Integration of Stream lit and Dashboard brings this project to real-world usage. 
+
+## **Other Contributors**  
 👤 **Vansh Sachdeva** – ML Model Development (ARIMA, SARIMA, TBATS)  
 👤 **Marmik Parashar** – API Deployment & Web Interface  
 👤 **Shashwat Mishra** – BI Dashboard
